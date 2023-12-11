@@ -6,10 +6,21 @@
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<i class="devicon-github-original-wordmark"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<i class="devicon-arduino-plain-wordmark"></i>
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <i class="devicon-github-original-wordmark"></i>
+          
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <i class="devicon-kaggle-original"></i>
+          
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <i class="devicon-linkedin-plain"></i>
+          
+
 
 <!---
 alefonsecabb/alefonsecabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
