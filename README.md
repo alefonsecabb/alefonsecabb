@@ -7,7 +7,7 @@
 - 📫 How to reach me alefonsecabb@gmail.com
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
           
                   
           
