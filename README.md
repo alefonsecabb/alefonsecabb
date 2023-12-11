@@ -7,7 +7,10 @@
 - 📫 How to reach me alefonsecabb@gmail.com
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<i class="devicon-github-original-wordmark colored"></i>
+<i class="devicon-github-original-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
 <!---
 alefonsecabb/alefonsecabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
