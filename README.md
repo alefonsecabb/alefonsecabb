@@ -6,10 +6,9 @@
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
 
-          <i class="devicon-github-original-wordmark"></i>
 
-          <i class="devicon-vscode-plain colored"></i>
-          
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+                  
           
 
           
