@@ -6,21 +6,9 @@
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
 
-<i class="devicon-arduino-plain-wordmark"></i>
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
           
-            <i class="devicon-github-original-wordmark"></i>
-          
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-            <i class="devicon-kaggle-original"></i>
-          
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-            <i class="devicon-linkedin-plain"></i>
-          
-
 
 <!---
 alefonsecabb/alefonsecabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
