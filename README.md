@@ -6,8 +6,16 @@
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
 
+<div class="cat">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.sv" alt="Descrição da imagem">
+</div>
+.cat img {
+    max-width: 20%;
+    max-height: 20%;
+}
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+
           
                   
           
