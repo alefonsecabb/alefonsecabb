@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Alexandre da Fonseca and my nickname is "alefonsecabb"!
+## My name is **Alexandre da Fonseca** and my nickname is "alefonsecabb"!
 
 - 👀 I’m interested in Data Science and Business Intelligence. 
 - 🌱 I’m currently developing Business Dashboards and sheets for BANCO DO BRASIL S.A., bringing Insights weekly according to company's strategies.    
@@ -7,7 +7,7 @@
 - 📫 How to reach me alefonsecabb@gmail.com
 
 
-
+> :construction: Projeto em construção :construction:
           
                   
           
