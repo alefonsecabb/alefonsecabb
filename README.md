@@ -6,8 +6,7 @@
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white       
           
           
 
