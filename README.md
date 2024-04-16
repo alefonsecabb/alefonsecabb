@@ -2,7 +2,7 @@
 ## My name is **Alexandre da Fonseca** and my nickname is "alefonsecabb"!
 
 - 👀 I’m interested in Data Science and Business Intelligence. 
-- 🌱 I’m currently developing Business Dashboards and sheets for BANCO DO BRASIL S.A., bringing Insights according to the company's strategies.    
+- 🌱 I’m currently working at BANCO DO BRASIL S.A., managing a 28 people team in Human Resources, and developing business tools in Power BI and EXCEL, providing Insights according to the company's strategies.    
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
   
