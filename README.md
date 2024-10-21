@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is **Alexandre da Fonseca** and my nickname is "alefonsecabb"!
 
-- 👀 I’m interested in Data Science and Business Intelligence. 
+- 👀 I’m interested in Machine Learning, Data Science and Business Intelligence. 
 - 🌱 I’m currently studying Data Science at University of Techonology - FATEC Jundiaí - , and working at BANCO DO BRASIL S.A., where I manage a 28 people team in Human Resources, and also develop business tools mainly in Power BI and EXCEL, providing Insights according to the company's strategies.    
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
