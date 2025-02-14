@@ -2,7 +2,7 @@
 ## My name is **Alexandre da Fonseca** and my nickname is "alefonsecabb"!
 
 - 👀 I’m interested in Machine Learning, Data Science, AI and Business Intelligence. 
-- 🌱 I’m currently studying Data Science at University of Techonology - FATEC Jundiaí - , and working at BANCO DO BRASIL S.A., where I manage a 19 people team in Human Resources, and also develop tools using Python, Power BI and EXCEL. We work with a massive custmoer database, getting insights and casting products sales campaingns according to Company´s strategies.    
+- 🌱 I’m currently studying Data Science at University of Techonology - FATEC Jundiaí - , and working at BANCO DO BRASIL S.A., where I manage a 19 people team in Human Resources, and also develop tools using Python, Power BI and EXCEL. We work with several customer databases, obtaining insights and casting product sales campaingns according to the Company's strategies.    
 - 💞️ I’m looking to collaborate on Open Source projects 
 - 📫 How to reach me alefonsecabb@gmail.com
   
