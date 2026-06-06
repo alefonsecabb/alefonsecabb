@@ -1,6 +1,6 @@
 # 👋 Hello! my name is Alexandre, welcome to my Github profile !
 - 📈 I’m interested in Machine Learning, Data Science, AI and Business Intelligence. 
-- 🌱 Graduated in Data Science at University of Techonology - FATEC Jundiaí SP (Dec 2026)
+- 🌱 Almost graduated in Data Science at University of Techonology - FATEC Jundiaí SP (Dec 2026)
 - 🚀 Currently working at BANCO DO BRASIL S.A. [www.bb.com.br/](https://www.bb.com.br/site/sobre-nos/#/)
 - 👀 I'm avaiable for temporary jobs and projects in Data Science. 
 - 📫 How to reach me: alefonsecabb@gmail.com
